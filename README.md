@@ -1,2 +1,2 @@
-# ca-file-structure-4-node
-A simple script in Go to create a Clean Archtecture project structure for Node.js applications
+# project-structure-generator
+A simple script in Go to create a project structure for Node.js (and for Go in the near future)
